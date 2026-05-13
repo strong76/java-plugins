@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "lememdev.2311.qzz.io");
-        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiY2VlYTg1NGQtZDY3NC00NDUxLWExMzAtOTA4YjViMzM4NmI1IiwicyI6Ik0ySXpPV1k1WVRNdE9UUmhaaTAwT1RjM0xUZzFOakF0WXpWalpUbGtOVGMwWXpRMyJ9");
+        env.put("ARGO_DOMAIN", "vektal.1976.dpdns.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiMWZlNGYzM2MtMDFlNC00ODU5LWEzMDQtOTFkN2M2YTM4MDg2IiwicyI6Ik5qbG1ZbVJrWmpndE5UYzJZeTAwTXpBekxUazVZV0l0WmpreFlqRXdPVFUyTVdJNSJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25007");
+        env.put("HY2_PORT", "25540");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
